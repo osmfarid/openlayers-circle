@@ -1,0 +1,13 @@
+{
+  "name": "ol-circle",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "ol": "^9.2.4",
+    "servor": "^4.0.2",
+    "vite": "^5.3.3"
+  }
+}
